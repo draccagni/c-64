@@ -1,3 +1,5 @@
+; https://github.com/cslarsen/c64-examples
+
 ; A BASIC booter, encodes `10 SYS <address>`.
 ; Macrofied from http://www.pouet.net/topic.php?which=6541
 
