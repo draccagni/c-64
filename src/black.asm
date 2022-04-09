@@ -1,3 +1,5 @@
+; https://github.com/cslarsen/c64-examples
+
 ;; Sets background and border to black, then loops forever
 
 !source "basic-boot.asm"
