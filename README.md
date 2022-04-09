@@ -1,6 +1,6 @@
-# C=64 development
+# C=64
 
-At the moment consider this a collection of working examples I have found all round.
+At the moment consider this a collection of working ASM examples I have found all round.
 *References*
 
 [1] https://github.com/cslarsen/c64-examples
